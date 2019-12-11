@@ -1,1 +1,2 @@
 My name is Edwin Munene.I am trying to learn how to use git and github.
+Today is the second day of class.
